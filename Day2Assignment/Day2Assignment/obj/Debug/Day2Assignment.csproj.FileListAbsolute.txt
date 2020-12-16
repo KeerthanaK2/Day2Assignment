@@ -1,0 +1,7 @@
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe.config
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.pdb
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.csprojAssemblyReference.cache
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.csproj.CoreCompileInputs.cache
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.exe
+E:\LTI\TRAINING\GIT\GitLearn\DAY2_ASSIGNMENT\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.pdb
